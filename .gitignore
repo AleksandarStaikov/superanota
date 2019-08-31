@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# application secrets file
+*secrets.json
+
+# visual studio settings
+*.vscode
